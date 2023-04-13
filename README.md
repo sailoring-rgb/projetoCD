@@ -1,24 +1,24 @@
 
 # CD
 
-Projeto de Comunicação de Dados
+Project accomplished in the scope of <b><i>Data Communication 20/21</i></b>
 
-Classificação do projeto: 14/20
+Final Project: 14/20
 
-# Autores
+# Authors
 
-### Módulo A
+### Module A
 - Diogo Araújo
 - João Coelho
 
-### Módulo B
-- Ana Murta
-- Ana Henriques
+### Module B
+- <a href="https://github.com/AnaMurta10">Ana Murta</a>
+- <a href="https://github.com/sailoring-rgb">Ana Henriques</a>
 
-### Módulo C
+### Module C
 - Diogo Rebelo
 - Joel Araújo
 
-### Módulo D
+### Module D
 - Gonçalo Carvalho
 - Luis Silva
